@@ -1,0 +1,7 @@
+# Este es un flujo de trabajo básico para ayudarlo a comenzar con Acciones.
+
+nombre: Jesus Alexis Barrientos Tapia
+
+# Controla cuándo se ejecutará el flujo de trabajo
+sobre:
+  # Activa el flujo de trabajo en eventos de solicitud de inserción o extracción, pero solo para el br principal
